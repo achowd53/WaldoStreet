@@ -6,7 +6,8 @@
 ### How To Use
 1. Clone the repo
 2. cd WaldoStreet/templates
-3. Open waldo.html
+3. Edit waldo.html, replace "YOURKEY" with your Google Clouds API key. Make sure your API key has "Maps JavaScript API" and "Roads API" enabled
+4. Open waldo.html
 
 ### Known Issues
 1. Sometimes the Street View of a location becomes black.
