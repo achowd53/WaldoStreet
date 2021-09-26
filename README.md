@@ -3,6 +3,9 @@
 ### About
 #### Essentially Where's Waldo? We implemented Google Cloud's Google Map API and Roads API to generate a random location within NYC, and a 2D Waldo will be placed in a random location within a certain radius. The goal is to find Waldo's exact location and click on him.
 
+### Demo
+![](https://github.com/aribchowdhury/WaldoStreet/blob/master/WaldoStreet-Demo.gif)
+
 ### How To Use
 1. Clone the repo
 2. cd WaldoStreet
